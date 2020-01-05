@@ -1,0 +1,16 @@
+{
+  "name": "4e-crawler",
+  "version": "1.0.0",
+  "description": "crawls ddi.wizards.com for 4e info",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "sleep": "^6.1.0",
+    "sync-request": "^6.1.0"
+  }
+}
